@@ -1,0 +1,21 @@
+\nAverage rating and movie count by genre:\n           mean  count
+Genre                
+Sci-Fi    8.17      3
+Drama     8.13      3
+Thriller  7.70      3
+Comedy    6.97      3
+\nMovies with most votes:\n          Title    Genre  Rating  Votes
+   Robot Earth   Sci-Fi     8.5 260000
+  Ocean Planet   Sci-Fi     7.9 240000
+    Galaxy Run   Sci-Fi     8.1 210000
+  Little Stars    Drama     8.2 195000
+Final Evidence Thriller     7.7 180000
+\nMovie count by release year:\n ReleaseYear
+2018    1
+2019    1
+2020    2
+2021    2
+2022    2
+2023    2
+2024    2
+dtype: int64
